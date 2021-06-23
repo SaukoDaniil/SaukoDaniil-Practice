@@ -11,4 +11,21 @@ namespace Practice_1
         }
     }
 }
-//Задача 2
+//Задача 3
+using System;
+
+using System.Linq;
+
+namespace Practice_1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] i = { 1, 2, 3 };
+            int maxValue = i.Max();
+            Console.WriteLine("Результат = {0}", maxValue);
+
+        }
+    }
+}
