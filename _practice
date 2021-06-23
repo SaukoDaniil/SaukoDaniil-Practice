@@ -1,0 +1,14 @@
+//Задача 1
+using System;
+
+namespace Practice_1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string[] a = new string[0];
+        }
+    }
+}
+//Задача 2
